@@ -21,7 +21,7 @@
 
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq&3={count})</p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p>
 If you wish to contact me please shoot a mail at  [nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)
 <hr>
 

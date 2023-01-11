@@ -20,7 +20,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin-kandel&" alt="nabin-kandel" /></p>
 
 
-
+### 👨‍💻 I love listening to Music on my leasure time. 🎶
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)
 
 If you wish to contact me please shoot a mail at  [nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)
 <hr>

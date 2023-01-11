@@ -18,3 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabin-kandel&show_icons=true&locale=en" alt="nabin-kandel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin-kandel&" alt="nabin-kandel" /></p>
+
+
+
+
+If you wish to contact me please shoot a mail at  [nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)
+<hr>
+
+<img src="https://raw.githubusercontent.com/Parajulibkrm/Parajulibkrm/master/assets/bottom_header.svg"/>

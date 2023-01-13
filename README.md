@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabin-kandel&show_icons=true&locale=en" alt="nabin-kandel" /></p>
 --->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin-kandel&" alt="nabin-kandel" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin-kandel&" alt="nabin-kandel" />
 
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
@@ -23,7 +23,7 @@ If you wish to contact me please shoot a mail at  [📩 nabinkandel64@gmail.com]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nabinkdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabinkdl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nabin-kandel-8a41a9246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabin-kandel-8a41a9246/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nabin-kandel-8a41a9246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lin" height="30" width="40" /></a>
 <a href="https://instagram.com/nabin.kdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.kdl" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/RfKzrdBd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RfKzrdBd" height="30" width="40" /></a>
 </p>

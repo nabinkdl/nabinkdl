@@ -28,7 +28,7 @@
 <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="left">
-  <a href="https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5?highlight=spotify:track:3hRV0jL3vUpRrcy398teAU" target="_blank"><img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/43d49bf07b03dcd32df137aa7aeff61b80ea475d/assect/api.svg" /></a>
+  <a href="https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5?highlight=spotify:track:3hRV0jL3vUpRrcy398teAU" target="_blank" ><img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/43d49bf07b03dcd32df137aa7aeff61b80ea475d/assect/api.svg" target="_blank"/></a>
 </p>
 
 If you wish to contact me please shoot a mail at  [📩 nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)

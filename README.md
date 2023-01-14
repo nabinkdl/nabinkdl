@@ -24,8 +24,8 @@
 
 <!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
-
-<a href="https://open.spotify.com/user/312knnsjy3cvsyoqnred5lic3erq" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+<p>
+  <a href="https://open.spotify.com/user/312knnsjy3cvsyoqnred5lic3erq" target="_blank" ></p><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="left">
   <a href="https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5?highlight=spotify:track:3hRV0jL3vUpRrcy398teAU" target="_blank" ><img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/43d49bf07b03dcd32df137aa7aeff61b80ea475d/assect/api.svg" target="_blank"/></a>

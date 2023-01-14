@@ -21,9 +21,17 @@
 <!---
 <img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/0eee02d490344b74bd431dd04aef32c67d6c91ac/assect/github-contribution-grid-snake%20(1).svg"/> -->
 
-### 👨‍💻 I love listening to Music on my leasure time. 🎶
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p>
 
+<!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->
+### 👨‍💻 I love listening to Music on my leasure time. 🎶
+
+<a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+
+<p align="left">
+  <a href="https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5?highlight=spotify:track:3hRV0jL3vUpRrcy398teAU" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
+</p>
+
+-----------------------------------------
 If you wish to contact me please shoot a mail at  [📩 nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)
 <hr>
 <h3 align="left">Connect with me:</h3>

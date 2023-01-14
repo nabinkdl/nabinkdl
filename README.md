@@ -31,7 +31,6 @@
   <a href="https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5?highlight=spotify:track:3hRV0jL3vUpRrcy398teAU" target="_blank"><img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/43d49bf07b03dcd32df137aa7aeff61b80ea475d/assect/api.svg" /></a>
 </p>
 
------------------------------------------
 If you wish to contact me please shoot a mail at  [📩 nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)
 <hr>
 <h3 align="left">Connect with me:</h3>

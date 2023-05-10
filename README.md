@@ -38,8 +38,8 @@ If you wish to contact me please shoot a mail at  [📩 nabinkandel64@gmail.com]
 <p align="left">
 <a href="https://twitter.com/nabinkdl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabinkdl" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nabin-kandel-8a41a9246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lin" height="30" width="40" /></a>
-<a href="https://instagram.com/nabin.kdl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.kdl" height="30" width="40" /></a><span>
-<a href="https://discord.gg/https://discord.gg/RfKzrdBd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RfKzrdBd" height="30" width="40" /></span></a>
+<!-- <a href="https://instagram.com/nabin.kdl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.kdl" height="30" width="40" /></a><span>
+<a href="https://discord.gg/https://discord.gg/RfKzrdBd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RfKzrdBd" height="30" width="40" /></span></a> -->
 </p>
 
 <img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/0eee02d490344b74bd431dd04aef32c67d6c91ac/assect/bottom_header.svg"/>

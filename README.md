@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin-kandel&label=Profile%20views&color=0e75b6&style=flat" alt="nabin-kandel" /> </p>
-<img align="right" alt="coding" width="400" style="border-radius:80%"  src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/main/assect/coder.gif">
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,18 +9,12 @@
 </p><p>
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabin-kandel&show_icons=true&locale=en&layout=compact" alt="nabin-kandel" /></p>
-  
-![](https://github-readme-stats.vercel.app/api?username=nabin-kandel&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nabin-kandel&theme=default&hide_border=false)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
+![](https://github-readme-stats.vercel.app/api?username=nabinkdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span align="left">
+![](https://github-readme-streak-stats.herokuapp.com/?user=nabinkdl&theme=dark&hide_border=false)</span><span align="right">
+</span>
 
-
-
-
-
-</p>
-<!---
-<img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/0eee02d490344b74bd431dd04aef32c67d6c91ac/assect/github-contribution-grid-snake%20(1).svg"/>  -->
 
 
 <!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->

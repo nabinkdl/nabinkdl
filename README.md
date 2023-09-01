@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nabin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin-kandel&label=Profile%20views&color=0e75b6&style=flat" alt="nabin-kandel" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=Blue&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Nabin+Kandel.">
+</h1>
+<h5 align="center">Pursuing my Bachelor's degree in Software Engineering at Pokhara University, Nepal.
+</h5>
+
+
+ <p>&nbsp;</p>
+
+ 
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,7 +22,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
-![](https://github-readme-stats.vercel.app/api?username=nabinkdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<span align="left">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nabinkdl&theme=dark&hide_border=false)</span><span align="right">
 </span>
 

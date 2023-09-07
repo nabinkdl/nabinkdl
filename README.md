@@ -22,14 +22,19 @@
 <br>
 
 
-<h3 align="left">🐇GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nabinkdl&theme=dark&hide_border=false)</span><span align="right">
-</span>
+### 👨 My Github Activity
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabinkdl&theme=algolia&hide_border=true" width="700"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabinkdl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabinkdl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nabinkdl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabinkdl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nabinkdl&theme=github_dark&utcOffset=8)
+
+
+<hr>
 
 <!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶

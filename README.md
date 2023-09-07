@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/1e8382b08d1a06e6b77a8907f18c50d429a0caf2/assect/avi.svg" target="_blank"/></a>
 </p>
 
-If you wish to contact me please shoot a mail at  [📩 nabinkandel64@gmail.com](mailto:nabinkandel64@gmail.com)
+If you wish to contact me please shoot a mail at  [📩 hi@nabinkdl.com](mailto:hi@nabinkdl.com)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

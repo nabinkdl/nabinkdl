@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-![](https://skillicons.dev/icons?i=tailwind,react,mysql,c,cpp,git,php,js,figma,netlify,vscode,vercel,java&perline=20) 
+![](https://skillicons.dev/icons?i=tailwind,react,mysql,jquery,c,cpp,git,php,js,figma,netlify,vscode,vercel,java&perline=20) 
 
 
 <br>

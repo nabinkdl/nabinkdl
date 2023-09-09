@@ -34,7 +34,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nabinkdl&theme=github_dark&utcOffset=8)
 
 
-<hr>
+
 
 <!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
